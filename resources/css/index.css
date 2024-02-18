@@ -1,10 +1,13 @@
 *{
     margin: 0;
     padding: 0;
+    
 
 }
 body{
     margin: 0;
+    font-family: MONTSERRAT;
+    font-weight: 800;
 }
 .aoba{
     background-color: black;
@@ -14,7 +17,26 @@ body{
 }
 .primarybackground{
     background-image: url('../../public/img/fundowb.jpg');
+    height: auto;
     background-size: cover;
     background-repeat: no-repeat;
     padding-bottom: 10em;
+    
+}
+.tittleprimaryparty{
+    font-weight: 900;
+    font-size: 6em;
+
+}
+.tittleprimaryparty1{
+    font-weight: 900;
+    font-size: 7em;
+    margin-top: -49px;
+    margin-right: 1px;
+
+}
+.paragr{
+    color: white;
+    font-size: 24px;
+    font-weight:900;
 }
