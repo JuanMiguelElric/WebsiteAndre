@@ -40,3 +40,13 @@ body{
     font-size: 24px;
     font-weight:900;
 }
+.paragrafo{
+    text-align: justify;
+    font-size: 20px;
+
+}
+.imagepersonal{
+    width: 36em;
+    border-radius:600px ;
+    margin-left: 6em;
+}
