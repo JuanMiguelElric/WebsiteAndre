@@ -23,6 +23,14 @@ body{
     padding-bottom: 10em;
     
 }
+.terceirabackground{
+    background-image: url('../../public/img/fundoweb.png');
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 10em;
+    
+}
 .tittleprimaryparty{
     font-weight: 900;
     font-size: 6em;
@@ -32,6 +40,12 @@ body{
     font-weight: 900;
     font-size: 7em;
     margin-top: -49px;
+    margin-right: 1px;
+
+}
+.titleservice{
+    font-weight: 900;
+    font-size: 4em;
     margin-right: 1px;
 
 }
@@ -45,8 +59,33 @@ body{
     font-size: 20px;
 
 }
+
 .imagepersonal{
     width: 36em;
     border-radius:600px ;
     margin-left: 6em;
+}
+.service{
+    border: 6px solid #3333FF;
+    border-radius: 3em;
+    color: white;
+    text-align: center;
+
+}
+.cardservice{
+    width: 24em;
+    height: auto;
+    border: 6px solid #3333FF;
+    border-radius: 3em;
+    padding-left:20px;
+    padding-right: 39px;
+
+    
+    
+}
+.pa{
+    text-align: justify;
+}
+.verificado{
+    list-style-image: url('../../public/img/verificado.png');
 }
